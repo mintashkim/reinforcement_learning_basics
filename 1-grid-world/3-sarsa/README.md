@@ -1,6 +1,6 @@
 # SARSA
 
-As we can see in a diagram 4.14, policy iteration and value iteration develops into SARSA.
+As we can see in diagram 4.14, policy iteration and value iteration develops into SARSA.
 From now on, we can proudly say that we are actually working on the 'reinforcement learning' algorithm.
 Let's see how policy iteration and value iteration turn into SARSA, and how does an agent learns through reinforcement learning such as SARSA.
   
